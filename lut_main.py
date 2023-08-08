@@ -4,7 +4,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (3, 0, 0),
     "location": "Compositing Tab > Node Apply LUT",
-    "description": "Hace un append de un archivo .blend al abrir Blender",
+    "description": "Add a Node for loading custom LUTs on Blender Compositing Tab",
     "category": "LUTs",
 }
 
